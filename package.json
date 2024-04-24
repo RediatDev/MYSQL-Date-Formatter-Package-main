@@ -1,0 +1,24 @@
+{
+  "name": "mysql-date-formatter",
+  "version": "1.0.0",
+  "description": "package used to format mysql database dates for rendering in front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dubnationrediat/msql-date-Formatter.git"
+  },
+  "keywords": [
+    "mysql",
+    "date",
+    "formatter"
+  ],
+  "author": "Rediat Terefe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dubnationrediat/msql-date-Formatter/issues"
+  },
+  "homepage": "https://github.com/Dubnationrediat/msql-date-Formatter#readme"
+}
